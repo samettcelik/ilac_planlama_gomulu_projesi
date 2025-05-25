@@ -1,4 +1,10 @@
- İlaç Takip Mobil Uygulaması – Kotlin (Bluetooth Bağlantılı)
+
+Bakırçay Üniversitesi Bilgisayar Mühendisliği Gömülü Sistemler Dersi İlaç Planlama Sistemi Projesi
+Ekip Üyeleri:
+Samet Çelik
+Sonay Karaaslan
+
+İlaç Takip Mobil Uygulaması – Kotlin (Bluetooth Bağlantılı)
 Bu mobil uygulama, Arduino tabanlı gömülü ilaç hatırlatma sistemiyle entegre çalışan, Bluetooth destekli, canlı saatli ve günlük ilaç kaydı yapabilen bir Android uygulamasıdır.
 
 Proje Amacı:
@@ -29,10 +35,5 @@ Gerçek zamanlı saat ekranı ve günlük ilaç listesi kullanıcıya sunulur.
 
 🔹 Bluetooth Cihaz Listesi – Mevcut Bluetooth cihazları listelenerek eşleştirme yapılabilir.
 
-🧰 Kullanılan Teknolojiler
+Mobil Ekran Görüntüleri :
 
-Kotlin ------------	Android uygulama geliştirme dili
-Android SDK-----------	API 21+ uyumlu
-BluetoothAdapter----------- Bluetooth haberleşmesi için
-ViewModel / LiveData-----------	Saat takibi ve UI güncellemeleri için
-Material Design-----------	UI bileşenleri için
