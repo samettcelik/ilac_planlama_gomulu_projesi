@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">İlaç Planlayıcı</string>
+
+    <!-- Kimlik Doğrulama -->
+    <string name="hint_email">E-posta</string>
+    <string name="hint_password">Şifre</string>
+    <string name="login">Giriş Yap</string>
+    <string name="signup">Kayıt Ol</string>
+    <string name="forgot_password">Şifreni mi unuttun?</string>
+    <string name="welcome_back">Tekrar Hoş Geldin!</string>
+    <string name="create_account">Hesap Oluştur</string>
+    <string name="reset_password">Şifreyi Sıfırla</string>
+    <string name="hint_confirm_password">Şifreyi Doğrula</string>
+    <string name="hint_name">Tam Ad</string>
+    <string name="already_have_account">Zaten bir hesabınız var mı? Giriş Yap</string>
+    <string name="dont_have_account">Hesabınız yok mu? Kayıt Ol</string>
+    <string name="logout">Çıkış Yap</string>
+
+    <!-- Navigasyon -->
+    <string name="home">Ana Sayfa</string>
+    <string name="profile">Profil</string>
+    <string name="alarms">Alarmlar</string>
+    <string name="settings">Ayarlar</string>
+
+    <!-- Alarm -->
+    <string name="add_alarm">Alarm Ekle</string>
+    <string name="edit_alarm">Alarmı Düzenle</string>
+    <string name="delete_alarm">Alarmı Sil</string>
+    <string name="alarm_time">Alarm Zamanı</string>
+    <string name="active">Aktif</string>
+    <string name="repeat">Tekrarla</string>
+    <string name="select_days">Günleri Seç</string>
+    <string name="monday">Pazartesi</string>
+    <string name="tuesday">Salı</string>
+    <string name="wednesday">Çarşamba</string>
+    <string name="thursday">Perşembe</string>
+    <string name="friday">Cuma</string>
+    <string name="saturday">Cumartesi</string>
+    <string name="sunday">Pazar</string>
+    <string name="alarm_name">Alarm Adı</string>
+    <string name="medication_name">İlaç Adı</string>
+    <string name="hint_alarm_name">Alarm adını girin</string>
+    <string name="save">Kaydet</string>
+    <string name="cancel">İptal</string>
+
+    <!-- Ayarlar -->
+    <string name="general_settings">Genel Ayarlar</string>
+    <string name="notification_settings">Bildirim Ayarları</string>
+    <string name="device_settings">Cihaz Ayarları</string>
+    <string name="theme">Tema</string>
+    <string name="language">Dil</string>
+    <string name="sound_volume">Ses Seviyesi</string>
+    <string name="vibration">Titreşim</string>
+    <string name="dark_mode">Karanlık Mod</string>
+    <string name="connected_devices">Bağlı Cihazlar</string>
+    <string name="scan_for_devices">Cihazları Tara</string>
+    <string name="about">Hakkında</string>
+    <string name="version">Sürüm</string>
+    <string name="delete_account">Hesabı Sil</string>
+    <string name="sound_vibration">Ses ve Titreşim</string>
+    <string name="volume">Ses Seviyesi</string>
+    <string name="device">Cihaz</string>
+    <string name="connected_device">Bağlı Cihaz</string>
+    <string name="none">Yok</string>
+    <string name="scan_devices">Cihazları Tara</string>
+
+    <!-- Profil -->
+    <string name="edit_profile">Profili Düzenle</string>
+    <string name="change_password">Şifreyi Değiştir</string>
+    <string name="change_email">E-posta Değiştir</string>
+    <string name="current_password">Mevcut Şifre</string>
+    <string name="new_password">Yeni Şifre</string>
+    <string name="confirm_new_password">Yeni Şifreyi Doğrula</string>
+    <string name="hint_new_email">Yeni E-posta</string>
+
+    <!-- Hata Mesajları -->
+    <string name="error_email_required">E-posta gerekli</string>
+    <string name="error_password_required">Şifre gerekli</string>
+    <string name="error_password_short">Şifre en az 6 karakter olmalıdır</string>
+    <string name="error_passwords_dont_match">Şifreler eşleşmiyor</string>
+    <string name="error_invalid_email">Geçersiz e-posta formatı</string>
+    <string name="error_name_required">İsim gerekli</string>
+    <string name="error_server">Sunucu hatası. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="error_auth_failed">Kimlik doğrulama başarısız. Bilgilerinizi kontrol edin.</string>
+    <string name="error_bluetooth">Bluetooth hatası. Bluetoothun açık olduğundan emin olun.</string>
+
+    <!-- Başarı Mesajları -->
+    <string name="success_login">Giriş başarılı</string>
+    <string name="success_signup">Hesap başarıyla oluşturuldu</string>
+    <string name="success_password_reset">Şifre başarıyla sıfırlandı</string>
+    <string name="success_profile_update">Profil başarıyla güncellendi</string>
+    <string name="success_password_change">Şifre başarıyla değiştirildi</string>
+    <string name="success_email_change">E-posta başarıyla değiştirildi</string>
+    <string name="success_alarm_saved">Alarm başarıyla kaydedildi</string>
+    <string name="success_alarm_deleted">Alarm başarıyla silindi</string>
+
+    <!-- Additional strings -->
+    <string name="no_alarms_yet">Henüz alarm eklenmedi</string>
+    <string name="active_alarms">Aktif Alarmlar</string>
+
+    <!-- Bluetooth Mesajları -->
+    <string name="bluetooth_not_supported">Bu cihaz Bluetooth desteklemiyor</string>
+    <string name="bluetooth_not_enabled">Bluetooth etkin değil</string>
+    <string name="connecting">Bağlanıyor…</string>
+    <string name="connected">Bağlandı</string>
+    <string name="disconnected">Bağlantı Kesildi</string>
+    <string name="device_found">Cihaz bulundu</string>
+    <string name="no_devices_found">Hiçbir cihaz bulunamadı</string>
+    <string name="scanning">Taranıyor…</string>
+    <string name="scan_complete">Tarama tamamlandı</string>
+    <string name="pair_device">Cihaz Eşleştir</string>
+    <string name="unpair_device">Bağlantıyı Kes</string>
+    <string name="device_status">Cihaz Durumu</string>
+    <string name="hc05_connected">HC-05 bağlandı</string>
+    <string name="connection_disconnected">Bağlantı kesildi</string>
+    <string name="refresh_devices">Cihazları Yenile</string>
+    <string name="paired_device_hc05">Eşleştirilmiş cihaz HC-05</string>
+    <string name="no_paired_device">Eşleştirilmiş cihaz bulunamadı</string>
+    <string name="next_alarm">Sonraki Alarm</string>
+    <string name="current_time">Güncel Saat</string>
+    <string name="default_medication">Ağrı Kesici</string>
+    <string name="add_email">E-posta adresi ekle</string>
+    <string name="email_added">E-posta eklendi</string>
+    <string name="email_not_set">Henüz e-posta adresi koyulmadı</string>
+    <string name="change_email_title">E-posta Değiştir</string>
+    <string name="enter_email">E-posta adresinizi girin</string>
+    <string name="enter_new_email">Yeni e-posta adresinizi girin</string>
+    <string name="invalid_email">Geçerli bir e-posta adresi girin</string>
+    <string name="account_deleted">Hesabınız silindi</string>
+    <string name="logging_out">Çıkış yapılıyor…</string>
+    <string name="release_date">Uygulama Yayın Tarihi</string>
+    <string name="account_settings">Hesap Ayarları</string>
+</resources>

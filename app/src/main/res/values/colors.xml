@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ana renkler -->
+    <color name="primary">#7695FF</color>
+    <color name="primary_dark">#7695FF</color>
+    <color name="primary_light">#9DBDFF</color>
+    <color name="accent">#FF9874</color>
+    
+    <color name="secondary">#FF9874</color>
+    <color name="secondary_light">#FFD7C4</color>
+    <color name="orange">#FF9874</color>
+    
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFD7C4</color>
+    <color name="error">#7695FF</color>
+    <color name="success">#FF9874</color>
+    
+    <color name="primary_text">#000000</color>
+    <color name="secondary_text">#000000</color>
+    <color name="time_text">#000000</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="icon_tint">#7695FF</color>
+    <color name="icon_accent">#FF9874</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    
+    <!-- Navigation bar colors -->
+    <color name="nav_bar_background">#FFFFFF</color>
+    <color name="nav_bar_selected">#7695FF</color>
+    <color name="nav_bar_unselected">#757575</color>
+    <color name="button_color">#FF9874</color>
+    <color name="button_accent">#9DBDFF</color>
+</resources>
