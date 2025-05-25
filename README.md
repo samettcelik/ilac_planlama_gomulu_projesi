@@ -1,7 +1,10 @@
 
-Bakırçay Üniversitesi Bilgisayar Mühendisliği Gömülü Sistemler Dersi İlaç Planlama Sistemi Projesi
+İzmir Bakırçay Üniversitesi Bilgisayar Mühendisliği Gömülü Sistemler Dersi İlaç Planlama Sistemi Projesi
+
 Ekip Üyeleri:
+
 Samet Çelik
+
 Sonay Karaaslan
 
 İlaç Takip Mobil Uygulaması – Kotlin (Bluetooth Bağlantılı)
