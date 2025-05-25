@@ -40,3 +40,8 @@ Gerçek zamanlı saat ekranı ve günlük ilaç listesi kullanıcıya sunulur.
 
 Mobil Ekran Görüntüleri :
 
+![mobil1](https://github.com/user-attachments/assets/6e439d4b-8650-4cc7-ad52-2b0a1a3cff63)    ![mobil2](https://github.com/user-attachments/assets/d3755244-7568-4b64-a7e9-8083dc6fdfc3)    ![mobil3](https://github.com/user-attachments/assets/b5e1d961-8507-483b-9114-df1d39208a82)      ![mobil4](https://github.com/user-attachments/assets/a13aba1c-bd99-442d-af99-468af2b49873)
+
+
+
+
