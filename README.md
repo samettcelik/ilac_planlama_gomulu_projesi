@@ -57,10 +57,10 @@ Bluetooth haberleşmesi sayesinde cihazla kablosuz bağlantı kurularak alarmlar
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/6e439d4b-8650-4cc7-ad52-2b0a1a3cff63" width="250"/><br><b>Ana Ekran</b></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/d3755244-7568-4b64-a7e9-8083dc6fdfc3" width="250"/><br><b>Alarm Kurma</b></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/b5e1d961-8507-483b-9114-df1d39208a82" width="250"/><br><b>İlaç Listesi</b></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/a13aba1c-bd99-442d-af99-468af2b49873" width="250"/><br><b>Bluetooth Ayarları</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/6e439d4b-8650-4cc7-ad52-2b0a1a3cff63" width="250"/><br><b>Giriş Ekranı</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/d3755244-7568-4b64-a7e9-8083dc6fdfc3" width="250"/><br><b>Ana Ekran</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/b5e1d961-8507-483b-9114-df1d39208a82" width="250"/><br><b>Alarm Kurma</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/a13aba1c-bd99-442d-af99-468af2b49873" width="250"/><br><b>Alarm Kaydı</b></td>
   </tr>
 </table>
 
